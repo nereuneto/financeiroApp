@@ -1,6 +1,6 @@
-# financas
+# Finanças
 
-A new Flutter project.
+Aplicativo de controle financeiro {WIP}.
 
 ## Getting Started
 
